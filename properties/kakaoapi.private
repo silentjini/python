@@ -1,0 +1,3 @@
+# 카카오 인증 코드 발급 (동의항목으로 인해 웹브라우저 수동 인증)
+https://kauth.kakao.com/oauth/authorize?response_type=code&client_id=c8717cd5e1a3f498dc325d037c573dd3&scope=talk_message,friends&redirect_uri=http://silentjin.asuscomm.com:19080/ISM25H/view/jsp/kakaoauth.jsp
+
