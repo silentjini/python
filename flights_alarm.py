@@ -82,7 +82,7 @@ driver.implicitly_wait(10)
 # 인원
 adult='2'
 # 구간
-pathDate='CJU-GMP-20220508' # CJU:제주 , GMP:김포
+pathDate='SEL-CJU-20230929' # CJU:제주 , GMP:김포
 flightUrl = 'https://m-flight.naver.com/flights/domestic/'+pathDate+'?adult='+adult+'&isDirect=true&fareType=YC'
 ticket = False
 rCnt = 0
