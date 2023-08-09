@@ -43,6 +43,6 @@ while True:
         smtp.starttls()  # TLS 사용시 필요
         smtp.login('silentjin@mocomsys.com', 'wlsl1qa@WS')
         smtp.sendmail('silentjin@mocomsys.com', 'silentjini@gmail.com', msg.as_string())
-        exit()
+        time.sleep(3600)
     
     time.sleep(10)
